@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb30bd90-89f1-4a40-a8fc-e12e086ced9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/web/book1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/web/book2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/web/booklist.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/web/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/web/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/web/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_homework_1.iml" afterDir="false" />
+    <list default="true" id="bb30bd90-89f1-4a40-a8fc-e12e086ced9e" name="Changes" comment="finished">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +36,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/IdeaProjects/web_homework_1"
+    "last_opened_file_path": "E:/IdeaProjects/web_homework_1",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -65,8 +55,16 @@
       <updated>1665221424754</updated>
       <workItem from="1665221426535" duration="5069000" />
       <workItem from="1665306010825" duration="7145000" />
-      <workItem from="1665317469030" duration="6480000" />
+      <workItem from="1665317469030" duration="7601000" />
     </task>
+    <task id="LOCAL-00001" summary="finished">
+      <created>1665324242456</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665324242457</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +73,31 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="2c803735-167d-4bdf-8e8e-f9e8f087c717">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -82,5 +105,14 @@
         </entry>
       </map>
     </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="2c803735-167d-4bdf-8e8e-f9e8f087c717" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished" />
   </component>
 </project>
